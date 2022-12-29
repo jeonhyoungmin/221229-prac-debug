@@ -1,0 +1,20 @@
+{
+  "name": "221229-prac-debug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeonhyoungmin/221229-prac-debug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeonhyoungmin/221229-prac-debug/issues"
+  },
+  "homepage": "https://github.com/jeonhyoungmin/221229-prac-debug#readme",
+  "description": ""
+}
